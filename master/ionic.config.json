@@ -1,0 +1,7 @@
+{
+  "name": "Gabriel Jackson MSD 4.2A",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
