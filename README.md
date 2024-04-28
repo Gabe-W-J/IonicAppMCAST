@@ -1,4 +1,4 @@
-# ![BannerLogo]()
+# ![BannerLogo](https://github.com/Gabe-W-J/IonicAppMCAST/blob/main/banner.png?raw=true)
 
 A Mobile App made for an exam at the Malta College of Arts, Science and Technology,
 Screenshots of pages shown below:
