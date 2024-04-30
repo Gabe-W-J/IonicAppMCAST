@@ -8,6 +8,7 @@ Note 28/04/24 9:37pm CET - trying to post all source code through github.dev, it
 Note 29/04/24 5:45am CET - im not really understanding why its uploading at like 4kb/s considering my internet speed is quite high, we're at like 11,000 files right now so i guess I'll leave it running for longer.<br><br>
 Note 29/04/24 12:40pm CET - 14,500 :')<br><br>
 Note 29/04/24 5:24pm CET - 15,288 and upload speed is only decreasing. I have a hunch I've done something wrong but I'm new to putting files on github except for HTML deployment.<br><br>
-Note 29/04/24 9:30pm CET - I'm going to cancel this, upload other projects and find a better way to upload this if it isnt done by morning, my pc and electricity bill cant handle staying on for this long.
+Note 29/04/24 9:30pm CET - I'm going to cancel this, upload other projects and find a better way to upload this if it isnt done by morning, my pc and electricity bill cant handle staying on for this long.<br><br>
+Note 30/04/24 6:35am CET - I give up, project defunct until deployment :)
 
 <sub><sup>Note: I have not yet been tested on deployment, this app has been designed for a mobile device (specifically iOS) and has not been deployed as an app through capacitor nor a viewable github page</sup></sub>
